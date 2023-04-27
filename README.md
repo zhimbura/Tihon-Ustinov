@@ -1,3 +1,5 @@
+![image](https://www.codewars.com/users/TikhonUstinov/badges/micro)
+
 ### Hi there 👋
 
 <!--
